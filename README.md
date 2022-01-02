@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Devtella&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=a67ea9&height=300&section=header&text=Devtella&fontSize=90)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
