@@ -27,4 +27,4 @@
 <br>
 
 - Git blog <a href="https://subtitle1.github.io/"><img src="https://img.shields.io/badge/Git%20Blog-black?style=flat-square&logo=GitHub&logoColor=white&link=https://subtitle1.github.io/"/></a>
-- Notion <a href="https://subtitle1.github.io/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://gamy-education-b33.notion.site/Stella-Kim-ac126283350b49f791f7b0333c322a4d"/></a>
+- Notion <a href="https://gamy-education-b33.notion.site/Stella-Kim-ac126283350b49f791f7b0333c322a4d"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://gamy-education-b33.notion.site/Stella-Kim-ac126283350b49f791f7b0333c322a4d"/></a>
