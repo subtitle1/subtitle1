@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white" style="inline-block"/>
   <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/> 
 <br>
