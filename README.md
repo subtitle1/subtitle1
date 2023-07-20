@@ -25,10 +25,5 @@
   <a href="mailto:stella.kim.96211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=stella.kim.96211@gmail.com"/></a>
   <a href="https://subtitle1.github.io/"><img src="https://img.shields.io/badge/Git%20Blog-black?style=flat-square&logo=GitHub&logoColor=white&link=https://subtitle1.github.io/"/></a>&nbsp
 </p>
-
-<h3 align="center"> 🚀 portfolio 🚀 </h3>
-  <p align="center">
-  <a href="https://www.notion.so/21eed5d5992541a38b7b48ccfcf51adf?v=999966c420064ba79ca44b214037124c/"><img src="https://img.shields.io/badge/notion-007396?style=flat-square&logo=Java&logoColor=white&link=https://www.notion.so/21eed5d5992541a38b7b48ccfcf51adf?v=999966c420064ba79ca44b214037124c/"/></a>&nbsp
-</p>
 <br>
 
