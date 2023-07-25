@@ -20,10 +20,9 @@
 <br>
 
 
-<h3 align="center"> 🌼 sns & resume 🌼 </h3>
+<h3 align="center"> 🌼 contact & blog 🌼 </h3>
 <p align="center">
   <a href="mailto:stella.kim.96211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=stella.kim.96211@gmail.com"/></a>
-  <a href="https://subtitle1.github.io/"><img src="https://img.shields.io/badge/Git%20Blog-black?style=flat-square&logo=GitHub&logoColor=white&link=https://subtitle1.github.io/"/></a>&nbsp
+  <a href="https://devtella.vercel.app/"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=GitHub&logoColor=white&link=https://devtella.vercel.app/"/></a>&nbsp
 </p>
 <br>
-
